@@ -19,5 +19,11 @@ namespace ConsoleApp1
         {
             return number;
         }
+
+
+        private void Display(string str)
+        {
+            Console.WriteLine(str);
+        }
     }
 }
