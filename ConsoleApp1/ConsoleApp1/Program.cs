@@ -13,5 +13,11 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("Hello World!!!");
         }
+
+
+        private void Display(string str)
+        {
+            Console.WriteLine(str);
+        }
     }
 }
