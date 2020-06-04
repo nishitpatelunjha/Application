@@ -12,6 +12,12 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Hello World!!!");
             Console.WriteLine("Hello World!!!");
+
+        }
+
+        private int Count(int number)
+        {
+            return number;
         }
     }
 }
